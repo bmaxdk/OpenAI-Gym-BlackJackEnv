@@ -42,6 +42,5 @@ When you have finished, please review the corresponding GitHub file, by reading 
 
 
 
-Monte_Carlo.ipynb - the Jupyter notebook where you will write all of your implementations (this is the only file that you will modify!)
-Monte_Carlo_Solution.ipynb - the corresponding instructor solutions
-plot_utils.py - contains a plotting function for visualizing state-value functions and policies
+*Monte_Carlo.ipynb - the Jupyter notebook where you will write all of your implementations (this is the only file that you will modify!)
+*plot_utils.py - contains a plotting function for visualizing state-value functions and policies

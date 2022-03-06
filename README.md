@@ -44,3 +44,7 @@ When you have finished, please review the corresponding GitHub file, by reading 
 
 *Monte_Carlo.ipynb - the Jupyter notebook where you will write all of your implementations (this is the only file that you will modify!)
 *plot_utils.py - contains a plotting function for visualizing state-value functions and policies
+
+
+## Download the Exercise ([Source](https://github.com/udacity/deep-reinforcement-learning))
+If you would prefer to work on your own machine, you can download the exercise from the DRLND GitHub repository.

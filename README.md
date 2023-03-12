@@ -8,8 +8,8 @@ Playing Cards (Source)
 Please read about the game of Blackjack in Example 5.1 of the textbook.
 
 When you have finished, please review the corresponding GitHub file, by reading the commented block in the BlackjackEnv class. (While you do not need to understand how all of the code works, please read the commented block that explains the dynamics of the environment.) For clarity, we have also pasted the description of the environment below:
-
-    """Simple blackjack environment
+```text
+    Simple blackjack environment
 
     Blackjack is a card game where the goal is to obtain cards that sum to as
     near as possible to 21 without going over.  They're playing against a fixed
@@ -38,12 +38,12 @@ When you have finished, please review the corresponding GitHub file, by reading 
     described in Example 5.1 in Reinforcement Learning: An Introduction
     by Sutton and Barto (1998).
     http://incompleteideas.net/sutton/book/the-book.html
-    """
+```
 
 
 
-*Monte_Carlo.ipynb - the Jupyter notebook where you will write all of your implementations (this is the only file that you will modify!)
-*plot_utils.py - contains a plotting function for visualizing state-value functions and policies
+`Monte_Carlo.ipynb` - the Jupyter notebook where you will write all of your implementations (this is the only file that you will modify!)
+`plot_utils.py` - contains a plotting function for visualizing state-value functions and policies
 
 
 ## Download the Exercise ([Source](https://github.com/udacity/deep-reinforcement-learning))
